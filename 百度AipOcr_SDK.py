@@ -6,9 +6,9 @@ import win32ui
 
 
 """ 你的 APPID AK SK """
-APP_ID = '11271246'
-API_KEY = 'rzz6wNkWGoqnchpZ4y91HAvn'
-SECRET_KEY = '6iknf0e5PHXb82qcSKkCvCAPohgrwf8F'
+APP_ID = ''
+API_KEY = ''
+SECRET_KEY = ''
 
 client = AipOcr(APP_ID, API_KEY, SECRET_KEY)
 
